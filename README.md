@@ -1,2 +1,3 @@
 Teste de submissão git
-COntinua alteração.
+
+comando diff
