@@ -1,3 +1,3 @@
 Teste de submissão git
 
-comando diff
+enviado para o git hub remoto
